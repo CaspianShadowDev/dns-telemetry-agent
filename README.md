@@ -10,7 +10,7 @@
 | Version         | 2.1.4-stable                 |
 | Last sync       | 2026-05-14                   |
 | Active nodes    | 3                            |
-| Monitoring node | 4B617370695F5733376368336572 |
+| Monitoring node | 4b617370695f57617463686572 |
 | Region          | Caspian Sector               |
 
 ## Description
